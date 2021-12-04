@@ -7,3 +7,5 @@ Link: https://github.com/Xeloboyo/Factoriodustry
 
 
 **Note that musics will not work on 7.0 cause its not an mp3 file.**
+
+![Logo](preview.png)
