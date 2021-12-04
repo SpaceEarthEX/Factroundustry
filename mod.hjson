@@ -2,9 +2,10 @@ name: "factroundustry"
 displayName: "Factroundustry"
 author: "SpaceEarthEX"
 description: "An Soundpack that changes all sounds and musics from Factorio.
+
 If you use it with Xeloboyo/Factoriodustry, you can feel more factroio-like.
 
-[orange]Note that musics will not work on 7.0 cause its not an mp3 file."
+[stat]Note that musics will not work on 7.0 cause its not an mp3 file."
 version: "0.1"
 minGameVersion: "126.2"
 hidden: "true"
