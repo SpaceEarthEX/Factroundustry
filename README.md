@@ -2,7 +2,9 @@
 **Factorio + Sound + Mindustry = Factroundustry**       
 A Soundpack that changes all sounds and musics from Factorio.
 
-If you use it with Xeloboyo/Factoriodustry you can feel more factroio-like.     
-Link: https://github.com/Xeloboyo/Factoriodustry
-
 ![Logo](preview.png)
+
+## Crossover
+You use this with Xeloboyo/Factoriodustry for better experience!
+
+Link: https://github.com/Xeloboyo/Factoriodustry
