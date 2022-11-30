@@ -2,7 +2,7 @@ repo: SpaceEarthEX/Factroundustry
 name: "factroundustry"
 displayName: "Factroundustry"
 author: "SpaceEarthEX"
-description: "A Soundpack that changes all sounds and musics from Factorio.\n\nYou can use it with Xeloboyo/Factoriodustry for better experience!\n(Erekir Update!)"
+description: "(Erekir Update!)\n\nA Soundpack that changes all sounds and musics from Factorio.\n\nYou can use it with Xeloboyo/Factoriodustry for better experience!"
 subtitle: "Soundpack | Ver.2.0.0"
 version: "2"
 minGameVersion: "140.4"
